@@ -1,0 +1,2 @@
+hg+https://pyglet.googlecode.com/hg/
+kytten
